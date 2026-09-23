@@ -19,17 +19,16 @@ A Python CLI (Command Line Interface) application for tracking personal skills a
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/christina-zadly/skill-progress-tracker.git
-
    ```
 2. Navigate to the project directory:
-```bash
-cd skill-progress-tracker
-   ```
+   ```bash
+   cd skill-progress-tracker
+      ```
    
 3. Run the application:
- ```bash
- python skill-progress-tracker.py
-   ```
+    ```bash
+    python skill-progress-tracker.py
+      ```
 ## 🧠 What I Practiced
 
 In this project, I applied several core programming concepts:
