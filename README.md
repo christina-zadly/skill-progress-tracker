@@ -3,7 +3,7 @@
 A Python CLI (Command Line Interface) application for tracking personal skills and their learning progress.
 
 ## ✨ Features
-- **Multi-user Support:** Tracks skills independently based on a unique `User ID`.
+- **Multi-user Support:** Tracks skills independently based on a `User ID`.
 - **Add Skills:** Add a new skill and set its initial progress level (0-100%).
 - **Show Skills:** Display all recorded skills with their current progress levels.
 - **Update Progress:** Update the progress percentage of any existing skill.
@@ -38,8 +38,8 @@ In this project, I applied several core programming concepts:
 - **Separation of Concerns:** Separated database logic from user inputs.
 - **Database Management:** Safely opened, updated, and closed SQLite connections.
 - **Error Handling:** Used `try-except` to prevent app crashes from bad inputs.
-- **Security:** Protected the database from SQL Injection using `(?)` queries.
+- **Security:** Used parameterized queries to help prevent SQL injection.
 
-## Author
+## 👩‍💻 Author
 
 Created by Christina-zadly.
