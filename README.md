@@ -39,6 +39,4 @@ In this project, I applied several core programming concepts:
 - **Error Handling:** Used `try-except` to prevent app crashes from bad inputs.
 - **Security:** Used parameterized queries to help prevent SQL injection.
 
-## 👩‍💻 Author
 
-Created by Christina-zadly.
